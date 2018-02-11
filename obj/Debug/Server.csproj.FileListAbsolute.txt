@@ -1,0 +1,6 @@
+c:\users\tumin\documents\visual studio 2017\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+c:\users\tumin\documents\visual studio 2017\Projects\Chat\Chat\bin\Debug\Chat.exe
+c:\users\tumin\documents\visual studio 2017\Projects\Chat\Chat\bin\Debug\Chat.pdb
+c:\users\tumin\documents\visual studio 2017\Projects\Chat\Chat\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\tumin\documents\visual studio 2017\Projects\Chat\Chat\obj\Debug\Chat.exe
+c:\users\tumin\documents\visual studio 2017\Projects\Chat\Chat\obj\Debug\Chat.pdb
